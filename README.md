@@ -45,3 +45,7 @@ This project involves a comprehensive analysis of a bank's database to understan
 ## Conclusion
 
 This project provides valuable insights into customer churn patterns, service delivery mechanisms, and customer satisfaction levels at the bank. By leveraging advanced analytical techniques and developing targeted strategies, the bank can effectively mitigate customer churn and enhance customer satisfaction and retention.
+
+<img width="611" alt="bankd" src="https://github.com/Nandpratik/Bank_retention_analysis/assets/165642457/d2647b87-6fa8-4738-854a-d8e5e635c5d1">
+
+
